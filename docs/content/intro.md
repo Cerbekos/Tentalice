@@ -196,14 +196,14 @@ layer 5
 これにより、キーマップ変更ツールのBehaviorから日本語のコードとして選択可能にしています。
 ~ |             |             |
 ~ | :---:       | :---:       |
-~ | [~g1]       | [~g2]       |
-:::warp g1
+~ | [~g3]       | [~g4]       |
+:::warp g3
 ![zmkkeymapeditor2](../images/zmkkeymapeditor2_20260419.jpg)
 
 ZMK keymap editor
 :::
 
-:::warp g2
+:::warp g4
 ![zmkkeymapeditor3](../images/zmkkeymapeditor3_20260419.jpg)
 
 ZMK keymap editor
