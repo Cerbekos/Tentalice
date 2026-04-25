@@ -1,0 +1,6 @@
+title: Tentalice Build Guide
+remote_theme: pmarsceill/just-the-docs
+plugins:
+  - jekyll-remote-theme
+exclude:
+  - node_modules

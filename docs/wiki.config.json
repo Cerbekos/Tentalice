@@ -1,0 +1,9 @@
+{
+  "title": "Tentalice ビルドガイド",
+  "navigation": "./nav.md",
+  "header":"./header.md",
+  "footer": "./footer.md",
+  "contentDir": "./content/",
+  "defaultPage": "intro",
+  "tableOfContents": true
+}
