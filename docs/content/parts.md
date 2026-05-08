@@ -9,7 +9,7 @@
 | 1 | メイン基板 | 1 | ![pcb_main](../images/compressed_20260412_120717.jpg) | 一部部品実装済み（PCBA） |
 | 2 | 左部基板 | 1 | ![pcb_left](../images/compressed_20260412_120737.jpg) | 一部部品実装済み（PCBA） |
 | 3 | 右部基板 | 1 | ![pcb_right](../images/compressed_20260412_120750.jpg) | 一部部品実装済み（PCBA） |
-| 4 | マウスセンサ部基板 | 1 | ![pcb_mouse](../images/compressed_20260412_120808.jpg) | 部品実装済み（PCBA） |
+| 4 | PMW3610 ブレークアウトボード | 1 | ![pcb_mouse](../images/compressed_20260412_120808.jpg) | 部品実装済み（PCBA） |
 | 5 | PMW3610 光学マウスセンサー | 1 | ![pmw3610](../images/compressed_20260418_130545.jpg) |  |
 | 6 | L字コネクタ | 1 | ![lconn](../images/compressed_20260412_121416.jpg) |  |
 | 7 | スライドスイッチ SK-12D11VG3 | 1 | ![slide_sw](../images/compressed_20260412_121657.jpg) |  |
