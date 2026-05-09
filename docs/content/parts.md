@@ -31,7 +31,7 @@
 | 6 | 3Dプリントケース(トップ) | 1 | ![topcase](../images/Tentalice-case-v7%20v412-1.jpg) | [Tentalice-3Dプリントケース(BOOTH)](https://cerbekoskeyboard.booth.pm/) |
 | 7 | 3Dプリントケース（ボトム） | 1 | ![btmcase](../images/Tentalice-case-v7%20v412-2.jpg) | \--- |
 | 8 | 3Dプリントケース（スイッチカバー） | 1 | ![swcvr](../images/Tentalice-case-v7%20v412-3.jpg) | \--- |
-| 9 | 34mmボール | 1 | ![34mmball](../images/34mmball.png) | 色によってはセンサーの反応が良くない場合があります |
+| 9 | 34mmボール | 1 | ![34mmball](../images/34mmball.png) |  |
 
 
 ## 3.組み立て工具類

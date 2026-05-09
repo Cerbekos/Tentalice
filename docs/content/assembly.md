@@ -266,4 +266,4 @@ PCまたはスマートフォンでBluetoothの接続を行います。Bluetooth
 
 ~ |             |             |
 ~ | :---:       | :---:       |
-~ | [パーツリスト](?page=parts) 　←　前へ       | 次へ　→　[使用方法](?page=manual)       |
+~ | [パーツリスト](?page=parts) 　←　前へ       | 次へ　→　[使用方法](?page=manual1)       |
