@@ -1,5 +1,12 @@
 # パーツリスト
 
+```
+⚠️頒布時期により以下の部品がPCBA実装済みに変わります。お手元の基板をご確認のうえ調達ください。
+・PHコネクターベース サイド型
+・ホットスワップソケット
+・LED SK6812MINI-E
+```
+
 ## 1.付属品
 以下は、キーボードキットに付属している部品です。
 キットはこちらから - [BOOTH - Tentalice by Cerbekos-keyboard](https://cerbekoskeyboard.booth.pm/)
@@ -24,14 +31,16 @@
 | No | 部品名 | 数量 | 画像 | 備考 |
 |:--------:|:--------:|:------:|:------:|:------:|
 | 1 | お好みのキースイッチ | 42 | ![mxsw =150x150](../images/compressed_cherrymxswitch.jpg =150x150) | Cherry MX互換 |
-| 2 | お好みのキーキャップ | 42 | ![keycap  =250x250](../images/compressed_keycap_20260418195734.jpg  =250x250) | 1u×33, 1.25u×3, 1.5u×3, 1.75u×2, 2u×1 |
-| 3 | XIAO BLE nRF52840 | 1 | ![xaioble](../images/compressed_nrf52840_front.jpg) |  |
-| 4 | LiPoバッテリー | 1 | ![lipob](../images/compressed_lipo_20260418200401.jpg) | PHコネクタ互換 |
-| 5 | LED SK6812MINI-E | 4 | ![lede](../images/led20260418161309.jpg) | 取り付けなくてもOK |
-| 6 | 3Dプリントケース(トップ) | 1 | ![topcase](../images/Tentalice-case-v7%20v412-1.jpg) | [Tentalice-3Dプリントケース(BOOTH)](https://cerbekoskeyboard.booth.pm/) |
-| 7 | 3Dプリントケース（ボトム） | 1 | ![btmcase](../images/Tentalice-case-v7%20v412-2.jpg) | \--- |
-| 8 | 3Dプリントケース（スイッチカバー） | 1 | ![swcvr](../images/Tentalice-case-v7%20v412-3.jpg) | \--- |
-| 9 | 34mmボール | 1 | ![34mmball](../images/34mmball.png) |  |
+| 2 | ホットスワップソケット | 42 | ![hotswap](../images/hotswap.png) | Cherry MX互換 |
+| 3 | お好みのキーキャップ | 42 | ![keycap  =250x250](../images/compressed_keycap_20260418195734.jpg  =250x250) | 1u×33, 1.25u×3, 1.5u×3, 1.75u×2, 2u×1 |
+| 4 | XIAO BLE nRF52840 | 1 | ![xaioble](../images/compressed_nrf52840_front.jpg) |  |
+| 5 | LiPoバッテリー | 1 | ![lipob](../images/compressed_lipo_20260418200401.jpg) | PHコネクタ互換 |
+| 6 | LED SK6812MINI-E | 4 | ![lede](../images/led20260418161309.jpg) | 取り付けなくてもOK |
+| 7 | 3Dプリントケース(トップ) | 1 | ![topcase](../images/Tentalice-case-v7%20v412-1.jpg) | [Tentalice-3Dプリントケース(BOOTH)](https://cerbekoskeyboard.booth.pm/) |
+| 8 | 3Dプリントケース（ボトム） | 1 | ![btmcase](../images/Tentalice-case-v7%20v412-2.jpg) | \--- |
+| 9 | 3Dプリントケース（スイッチカバー） | 1 | ![swcvr](../images/Tentalice-case-v7%20v412-3.jpg) | \--- |
+| 10 | 34mmボール | 1 | ![34mmball](../images/34mmball.png) |  |
+
 
 
 ## 3.組み立て工具類
